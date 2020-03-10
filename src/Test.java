@@ -2,8 +2,9 @@
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// Andrea: creo un syso per salutare
+		System.out.println("Benvenuti!");
+		
 	}
 
 }
